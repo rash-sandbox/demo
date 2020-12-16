@@ -1,2 +1,1 @@
 This is a demo greetings file
-This is an update.
